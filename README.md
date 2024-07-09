@@ -1,16 +1,16 @@
 <img src="Banner/Banner.gif" alt="Saroj Kumar - Integration Developer" />
 
-## <img src="Gifs/icons8-mind-map.gif" width="22" />&nbsp;&nbsp;Ask me about ...
-- Microsoft Integration Platforms - Azure Integration Services and BizTalk
-- Terraform
-- Azure DevOps, GitHub
-
 ## <img src="Gifs/wave.gif" width="22" />&nbsp;&nbsp;About Me
 I am working as Sr. Azure Integration Services Developer with extensive experience in designing, implementing, and managing cloud, Hybrid and on-premises integration solutions.  
 I specialize in Microsoft Integration Platforms i.e., Azure Integration Services and BizTalk, Azure DevOps, GitHub & Terraform.  
 Consider visiting [Portfolio](https://github.com/itssarojkr/Portfolio) for details on my experience and work samples.
 
-## <img src="Gifs/icons8-bulb.gif" width="22" />&nbsp;&nbsp;Technical expertise in ...
+## <img src="Gifs/icons8-mind-map.gif" width="22" />&nbsp;&nbsp;Ask me about
+- Microsoft Integration Platforms - Azure Integration Services and BizTalk
+- Terraform
+- Azure DevOps, GitHub
+
+## <img src="Gifs/icons8-bulb.gif" width="22" />&nbsp;&nbsp;Technical skills
 - **Azure Integration Services**: Azure Logic Apps, Data Factory, API Management, Function App, Durable Function, Service Bus, Event Grid, Storage Account, Key Vault, ARM Template, Application Insights, Log Analytics
 - **BizTalk**: Schema, Map, Orchestration, Pipeline Component, BRE, ESB Itinerary, WCF Behavior, Orchestration Extender, Messaging Extender
 - **Programming Languages**: C#, PowerShell, SQL, U-SQL, Python (Basics), JavaScript
