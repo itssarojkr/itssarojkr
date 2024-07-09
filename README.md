@@ -1,41 +1,41 @@
-<img src="https://github.com/itssarojkr/itssarojkr/blob/main/Banner/Banner.gif" alt="Saroj Kumar - Integration Developer" />
+<img src="Banner/Banner.gif" alt="Saroj Kumar - Integration Developer" /><br /><img align="right" src="https://komarev.com/ghpvc/?username=itssarojkr&style=for-the-badge&base=100">
 
-## <img src="https://github.com/itssarojkr/itssarojkr/blob/main/Gifs/icons8-mind-map.gif" width="22" alt="Wave" />&nbsp;&nbsp;Ask me about ...
-- Microsoft Integration Platforms - Azure Integration Services and BizTalk
-- Terraform
-- Azure DevOps, GitHub
+## <img src="Gifs/wave.gif" width="22" />&nbsp;&nbsp;About Me
 
-## <img src="https://github.com/itssarojkr/itssarojkr/blob/main/Gifs/wave.gif" width="22" alt="Wave" />&nbsp;&nbsp;About Me
-I am working as Sr. Azure Integration Services Developer with extensive experience in designing, implementing, and managing cloud, Hybrid and on-premises integration solutions.  
-I specialize in Microsoft Integration Platforms i.e., Azure Integration Services and BizTalk, Azure DevOps, GitHub & Terraform.  
-Consider visiting [Portfolio](https://github.com/itssarojkr/itssarojkr/blob/main/Gifs/icons8-mind-map.gif) for details on my work experience and sample projects.
+👋 Hi, I'm **Saroj Kumar**, a Senior Azure Integration Developer with over 11 years of experience delivering scalable, secure, and efficient integration solutions.
 
-## <img src="https://github.com/itssarojkr/itssarojkr/blob/main/Gifs/icons8-bulb.gif" width="22" alt="Wave" />&nbsp;&nbsp;Technically strong in ...
-- **Azure Integration Services**: Azure Logic Apps, Data Factory, API Management, Function App, Durable Function, Service Bus, Event Grid, Storage Account, Key Vault, ARM Template, Application Insights, Log Analytics
-- **BizTalk**: Schema, Map, Orchestration, Pipeline Component, BRE, ESB Itinerary, WCF Behavior, Orchestration Extender, Messaging Extender
-- **Programming Languages**: C#, PowerShell, SQL, U-SQL, Python (Basics), JavaScript
-- **Databases**: SQL Server, Azure SQL Database, Azure Cosmos DB
-- **DevOps**: GitHub Actions, Azure DevOps pipelines, Terraform (IAC)
-- **Tools**: Visual Studio, Postman, VS Code, Git Bash
-- **APIs**: RESTful APIs, OData APIs
+I specialize in **Microsoft Integration Platforms** including **Azure Integration Services** and **BizTalk Server**, and have strong expertise in **CI/CD automation**, **Infrastructure as Code (Terraform)**, and **cloud-native architecture**.
 
-## <img src="https://github.com/itssarojkr/itssarojkr/blob/main/Gifs/icons8-mailbox.gif" width="22" alt="Wave" />&nbsp;&nbsp;How to reach me: 
-<a href="https://join.skype.com/invite/wCj6QgAZhHEN"><img src="https://img.icons8.com/?size=40&id=Esrcu8IoZdus&format=png&color=000000" alt="Skype"></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saroj-kumar-1011"><img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"></a> &nbsp;&nbsp;
-<a href="mailto:itssarojkr@gmail.com"><img src="https://img.icons8.com/?size=40&id=qyRpAggnV0zH&format=png&color=000000" alt="GMail"></a> &nbsp;&nbsp;
-<a href="mailto:itssaroj@hotmail.com"><img src="https://img.icons8.com/?size=40&id=ut6gQeo5pNqf&format=png&color=000000" alt="Outlook"></a> &nbsp;&nbsp;
+I’ve successfully led integration initiatives across industries—developing enterprise-grade solutions using Logic Apps, API Management, Service Bus, and more. 
+ 
+📂 Feel free to explore my [Website](https://itssaroj.com) and [GitHub Portfolio](https://github.com/itssarojkr/Portfolio) for detailed project insights and code samples.
 
-<!--
-**itssarojkr/itssarojkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="Gifs/icons8-mind-map.gif" width="22" />&nbsp;&nbsp;Ask Me About
 
-Here are some ideas to get you started:
+- Azure Integration Services: Logic Apps, API Management, Functions, Service Bus,
+- BizTalk: Schemas, Maps, Orchestrations, Pipelines,
+- CI/CD with Azure DevOps & GitHub Actions
+- Infrastructure as Code using Terraform
+- Event-driven and hybrid integration architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="Gifs/icons8-bulb.gif" width="22" />&nbsp;&nbsp;Technical Skills
+
+- **Azure Integration Services**: Logic Apps, Data Factory, API Management, Azure Functions, Durable Functions, Service Bus, Event Grid, Azure Storage, Key Vault, ARM Templates, Application Insights, Log Analytics  
+- **BizTalk Server**: Schemas, Maps, Orchestrations, Pipelines, BRE, ESB Itineraries, WCF Behaviors  
+- **Languages**: C#, PowerShell, SQL, U-SQL, Python (Basics), JavaScript  
+- **Databases**: SQL Server, Azure SQL Database, Azure Cosmos DB  
+- **DevOps & IaC**: GitHub Actions, Azure DevOps Pipelines, Terraform  
+- **Tools**: Visual Studio, VS Code, Git Bash, Postman  
+- **APIs**: RESTful APIs, OData, SOAP
+
+## <img src="Gifs/icons8-mailbox.gif" width="22" />&nbsp;&nbsp;How to Reach Me
+
+<a href="https://join.skype.com/invite/wCj6QgAZhHEN"><img src="https://img.icons8.com/?size=40&id=Esrcu8IoZdus&format=png&color=000000" alt="Skype" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/itssaroj"><img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:itssarojkr@gmail.com"><img src="https://img.icons8.com/?size=40&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="mailto:itssaroj@hotmail.com"><img src="https://img.icons8.com/?size=40&id=ut6gQeo5pNqf&format=png&color=000000" alt="Outlook" /></a>&nbsp;&nbsp;
+<a href="https://about.me/itssaroj"><img src="https://img.icons8.com/?size=40&id=Wqx0DcbVC3dd&format=png&color=000000" alt="About.me" /></a>&nbsp;&nbsp;
+<a href="https://linktr.ee/itssarojkr"><img src="https://img.icons8.com/?size=40&id=9DOe33RY87VM&format=png&color=000000" alt="Linktree" /></a>
+   
+   
+🔍 _Currently open to exciting opportunities in Integration & Cloud Architecture._
