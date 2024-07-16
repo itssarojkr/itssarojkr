@@ -1,4 +1,4 @@
-<img src="Banner/Banner.gif" alt="Saroj Kumar - Integration Developer" />
+<img src="Banner/Banner.gif" alt="Saroj Kumar - Integration Developer" /><br /><img align="right" src="https://komarev.com/ghpvc/?username=itssarojkr&style=for-the-badge&base=100">
 
 ## <img src="Gifs/wave.gif" width="22" />&nbsp;&nbsp;About Me
 I am working as Sr. Azure Integration Services Developer with extensive experience in designing, implementing, and managing cloud, Hybrid and on-premises integration solutions.  
